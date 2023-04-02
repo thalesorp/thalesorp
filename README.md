@@ -29,7 +29,7 @@ I'm currently learning back-end development with Java.
 
 The project that I'm working on as study is: [AdoPet API](https://github.com/thalesorp/adopet-api).
 
-I'm also bringing some of my PowerShell codes like [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator) to my GitHub profile here.
+Besides that, I'm also adding personal projects to public repositories, like my PowerShell tool [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator).
 
 
 ### 📫 Reach me...
