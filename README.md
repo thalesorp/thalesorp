@@ -25,11 +25,9 @@ My name is Thales Pinto, and I'm a software developer with a bachelor's degree o
 
 ### 🌱 Currently on
 
-I'm currently learning back-end development with Java.
+I'm currently learning back-end development with Java, using Spring Framework. The project that I'm working on is: [AdoPet API](https://github.com/thalesorp/adopet-api).
 
-The project that I'm working on as study is: [AdoPet API](https://github.com/thalesorp/adopet-api).
-
-Besides that, I'm also adding personal projects to public repositories, like my PowerShell tool [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator).
+Besides that, I'm also adding personal projects to public repositories, like my PowerShell tool [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator) and [Audio Manager](https://github.com/thalesorp/Audio-Manager).
 
 
 ### 📫 Reach me...
