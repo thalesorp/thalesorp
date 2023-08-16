@@ -22,12 +22,13 @@
 
 My name is Thales Pinto, and I'm a software developer with a bachelor's degree on computer science. The past two years I was working as a data analyst, but now I'm looking for oportunities in software development.
 
+My name is Thales Pinto, and I'm a software developer with a bachelor's degree on computer science. With two years of experience in data analysis, I am now studying Oracle tools and solutions where I am working full time.
 
 ### 🌱 Currently on
 
 I'm currently learning back-end development with Java, using Spring Framework. The project that I'm working on is: [AdoPet API](https://github.com/thalesorp/adopet-api).
 
-Besides that, I'm also adding personal projects to public repositories, like my PowerShell tool [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator) and [Audio Manager](https://github.com/thalesorp/Audio-Manager).
+Besides that, I'm also adding personal projects to public repositories, like my PowerShell tools [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator) and [Audio Manager](https://github.com/thalesorp/Audio-Manager).
 
 
 ### 📫 Reach me...
