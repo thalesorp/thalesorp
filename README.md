@@ -20,18 +20,18 @@
 
 ### 🦕 About me
 
-My name is Thales Pinto, and I'm a software developer with a bachelor's degree on computer science. The past two years I was working as a data analyst, but now I'm looking for oportunities in software development.
-
-My name is Thales Pinto, and I'm a software developer with a bachelor's degree on computer science. With two years of experience in data analysis, I am now studying Oracle tools and solutions where I am working full time.
+My name is Thales Pinto and I'm a software developer with a bachelor's degree in computer science. With two years of experience in data analysis, I am now studying Oracle tools and solutions where I work as a full-time Oracle consultant.
 
 ### 🌱 Currently on
 
-I'm currently learning back-end development with Java, using Spring Framework. The project that I'm working on is: [AdoPet API](https://github.com/thalesorp/adopet-api).
+I'm adding some of my personal projects to public repositories, like my PowerShell tools:
+- [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator): Create executable files from PowerShell scripts that do not require a CLI, like, background processing scripts and GUI scripts
+- [Audio Manager](https://github.com/thalesorp/Audio-Manager): Cmdlet that provides some tools to programmatically manage audio on Windows systems
+- [iBackupManager](https://github.com/thalesorp/iBackupManager): Organize iPhone photo backups on Windows PCs
+- [BatteryNotifier](https://github.com/thalesorp/BatteryNotifier): Send a notification to disconnect the laptop when the battery reaches a certain threshold, thereby optimizing the lifespan of the battery
 
-Besides that, I'm also adding personal projects to public repositories, like my PowerShell tools [Shortcut Creator](https://github.com/thalesorp/Shortcut-Creator) and [Audio Manager](https://github.com/thalesorp/Audio-Manager).
 
-
-### 📫 Reach me...
+### 📫 Reach me
 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ThalesORP@ProtonMail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesorp/)
